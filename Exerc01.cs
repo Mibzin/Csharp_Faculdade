@@ -1,25 +1,25 @@
-//Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
 
 
-//int a, b;
+int a, b;
 
-//double x;
+double x;
 
 
-//Console.WriteLine("Calculadora \n");
+Console.WriteLine("Calculadora \n");
 
-//Console.WriteLine("\nDigite  o valor de a = ");
+Console.WriteLine("\nDigite  o valor de a = ");
 
-//a = int.Parse(Console.ReadLine());
+a = int.Parse(Console.ReadLine());
 
-//Console.WriteLine("\nDigite o valor de b = ");
-//b = int.Parse(Console.ReadLine());
-//x = 10.5;
-//x = (int)x;
-//x = (double)a / b; //a e b viram valores flutuantes  (usamos casting)
-//Console.WriteLine("A = {0} e B = {1}", a, b);
-//Console.WriteLine("\nValor da soma  =  " + (a + b));
-//Console.WriteLine("\nValor da subtração = " + (a - b));
-//Console.WriteLine("\nValor da multiplicação = " + (a * b));
-//Console.WriteLine("\nValor da Divisão = " + x.ToString("0.00"));
-//Console.WriteLine("\nValor da Divisão = {0}", x.ToString("0.00"));
+Console.WriteLine("\nDigite o valor de b = ");
+b = int.Parse(Console.ReadLine());
+x = 10.5;
+x = (int)x;
+x = (double)a / b; //a e b viram valores flutuantes  (usamos casting)
+Console.WriteLine("A = {0} e B = {1}", a, b);
+Console.WriteLine("\nValor da soma  =  " + (a + b));
+Console.WriteLine("\nValor da subtração = " + (a - b));
+Console.WriteLine("\nValor da multiplicação = " + (a * b));
+Console.WriteLine("\nValor da Divisão = " + x.ToString("0.00"));
+Console.WriteLine("\nValor da Divisão = {0}", x.ToString("0.00"));
